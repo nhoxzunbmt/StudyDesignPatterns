@@ -12,7 +12,9 @@
 
         ],
         "psr-4": {
-            "AbstractFactoryDemo\\": "AbstractFactoryDemo/"
+            "AbstractFactoryDemo\\": "AbstractFactoryDemo/",
+            "BuilderDemo\\": "BuilderDemo/",
+            "DesignPatterns\\": "DesignPatternsPHP/"
         },
         "files": [
 
