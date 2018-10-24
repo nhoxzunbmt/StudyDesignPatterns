@@ -6,14 +6,15 @@
             "email": "nhoxzunbmt@users.noreply.github.com"
         }
     ],
-    "require": {},
+    "require": {
+        "laravel/framework": "^5.7"
+    },
     "autoload": {
         "classmap": [
 
         ],
         "psr-4": {
-            "AbstractFactoryDemo\\": "AbstractFactoryDemo/",
-            "BuilderDemo\\": "BuilderDemo/",
+            "App\\": "App/",
             "DesignPatterns\\": "DesignPatternsPHP/"
         },
         "files": [
