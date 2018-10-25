@@ -20,6 +20,9 @@ require __DIR__ . '/vendor/autoload.php';
 //
 //}
 
+$a = 1;
+$b = 2;
+echo $a+ $b;
 
 $invoker = new Invoker();
 $receiver = new Receiver();
