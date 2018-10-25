@@ -21,8 +21,9 @@ require __DIR__ . '/vendor/autoload.php';
 //}
 
 $a = 1;
-$b = 2;
-echo $a+ $b;
+$b = 3;
+$s= $a+ $b;
+
 
 $invoker = new Invoker();
 $receiver = new Receiver();
